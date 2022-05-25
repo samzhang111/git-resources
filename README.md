@@ -4,3 +4,4 @@
 * Github community forums: https://github.community/ 
 * Visual cheat sheet: https://ndpsoftware.com/git-cheatsheet.html
 * Interactive visual git tutorial: https://learngitbranching.js.org/?locale=en_US
+* Pro git book: https://git-scm.com/book/en/v2
